@@ -7,4 +7,6 @@ This app simulates storing a list of pets in a shelter using a local database. T
 
 ### Screenshots
 
-![Screenshot](screenshots.png)
+![Screenshot](screenshot1.png)
+![Screenshot](screenshot2.png)
+![Screenshot](screenshot3.png)
